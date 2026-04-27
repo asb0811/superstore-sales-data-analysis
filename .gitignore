@@ -1,0 +1,7 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# Workbench backups
+*.mwb
+*.bak
